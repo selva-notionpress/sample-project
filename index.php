@@ -11,5 +11,5 @@
 </body>
 </html>
 <?php 
-echo "file upload";
+echo "file upload successfully commited";
 ?>
