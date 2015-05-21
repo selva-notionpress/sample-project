@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <form action="/my-handling-form-page" method="post">
     <div>
         <label for="name">Name:</label>
@@ -12,3 +13,6 @@
         <textarea id="msg"></textarea>
     </div>
 </form>
+=======
+<?php echo "welcome";?>
+>>>>>>> selva
