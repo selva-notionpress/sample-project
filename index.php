@@ -12,4 +12,5 @@
         <textarea id="msg"></textarea>
     </div>
 </form>
-<?php echo "welcome";?>
+<?php echo "welcome";
+echo "AMENT COMMIT";?>
